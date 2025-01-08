@@ -1,7 +1,7 @@
 Project-Condor:
   org: space-wizards
   project: 2
-  inbox: Inbox
+  inbox: Inbox2
   labels:
     "W: In Progress": "In Progress"
     "W: Discussion": "Design and Discussion"
